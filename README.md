@@ -4,7 +4,7 @@ Este projeto é parte da matéria de Tópico de Big Data em Python do professor 
 
 ## Descrição
 
-O objetivo deste projeto é analisar um conjunto de dados relacionado ao consumo de combustível em veículos. O dataset contém informações sobre diferentes tipos de combustíveis, consumo médio, e outras variáveis relevantes. A análise visa identificar padrões e tendências no consumo de combustível, bem como fornecer insights sobre a eficiência energética dos veículos.
+O objetivo deste trabalho visa analisar de dados obtidos de fontes variadas o valor do barril de petróleo, utilizando técnicas de análise de dados e modelagem preditiva para identificar padrões e tendências no mercado de petróleo. Através da coleta, limpeza e análise dos dados, buscamos compreender a flutuação do preço do petróleo e desenvolver um modelo preditivo para estimar seu valor futuro.
 
 ## Tecnologias Utilizadas
 
