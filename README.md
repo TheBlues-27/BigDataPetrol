@@ -18,5 +18,5 @@ O objetivo deste trabalho visa analisar de dados obtidos de fontes variadas o va
 - Bruno Gabriel Caetano de Oliviera (202502310226) - Analista
 - Felipe Souza Martins - (202408287372) - Pesquisador
 - Felipe Rodrigues de Souza - (202504201335) - Pesquisador
-- Weslley Marcello - () - Pesquisador
-- Jeniffer - () - Documentação
+- Weslley Marcello Bernardino de Brito - (202502276664) - Pesquisador
+- Jeniffer Caetano Petrowski - (202503881774) - Documentação
